@@ -1,0 +1,3 @@
+# HugoHSSA
+
+用于注入SeewoServiceAssistant.exe以实现解除锁屏功能
